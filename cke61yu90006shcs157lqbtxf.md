@@ -1,10 +1,20 @@
 ## Structuring Reactjs / Nextjs Applications
 
-In a collaborative environment, while building web applications, the overall project structure and directory management could be a great deal to how your teammates would love working with you on the project and also how it makes them think less navigating your project. Having a signature project structure would also make it fun to work continuously with folks on multiple projects.
+ In a collaborative environment, while building web applications, the overall project structure and directory management could be a great deal to how your teammates would love working with you on the project and also how it makes them think less navigating your project. Having a signature project structure would also make it fun to work continuously with folks on multiple projects.
 
-In the context of React, I often find a lot of beginners creating dangling components. It is quite easy to fall into this trap if you find yourself mostly working alone, but it becomes a whole new world when someone else needs to read your code when you are not available and they can't proceed because the project structure is pretty bad.
+In the context of React, oftentimes beginners create dangling components, and it is understandable because we are just navigating how things work. But don't get too comfortable though. It is quite easy to fall into this trap if you find yourself mostly working alone, but it becomes a whole new world when someone else needs to read your code when you are not available and they can't proceed because the project structure is pretty bad.
 
 Whenever I think of React, what always comes to mind is "building re-usable user interfaces". Having this in mind keeps me in constant checks when breaking down a design into a bunch of reusable components. By so doing, anyone can get on my projects with little or no supervision from me and they can have some level of understanding on how to navigate.
+
+In this article, I would introduce you to how you can structure your React projects to improve collaboration.
+
+## Prerequisites
+
+Before you begin this tutorial you'll need to have a basic understanding of the following:
+
+- Javascript( ES6 at least)
+- React components
+- Higher-Order components
 
 ## My typical React app structure.
 
