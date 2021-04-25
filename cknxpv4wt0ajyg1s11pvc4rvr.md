@@ -1,0 +1,3 @@
+## SSR vs CSR
+
+undefined
