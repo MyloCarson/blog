@@ -1,4 +1,4 @@
-## SSR vs CSR
+## Don't have CSR and SSR mixed up!
 
 Server-side rendering vs Client-side rendering. 
 
