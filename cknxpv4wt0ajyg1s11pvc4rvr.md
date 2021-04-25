@@ -2,7 +2,7 @@
 
 Server-side rendering vs Client-side rendering. 
 
-As a self-taught developer who has worked with javascript frameworks such as Angular, Nextjs, and Nuxt, I've struggled to decide whether to use SSR or CSR because they both have advantages and disadvantages.
+As a self-taught developer who has worked with Javascript frameworks such as Angular, Nextjs, and Nuxt, I've struggled to decide whether to use SSR or CSR because they both have advantages and disadvantages.
 
 SSR was the de-facto way of designing apps in the early days of web creation. Simply put, you type a URL into your browser, the browser sends the request to the server, and the server returns a compiled/ready-to-view HTML page. After the browser is painted, an SSR application becomes interactive.
 
