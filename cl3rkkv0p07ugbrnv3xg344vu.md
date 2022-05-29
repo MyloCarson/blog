@@ -183,7 +183,7 @@ head() {
 }
 ```
 
-### Gotchas
+## Gotchas
 
 - **hid** is the name assigned to the meta tag in the head property of nuxt.config.js. **`hid`** allows us to be able to change the values for these tags as needed.
     
@@ -197,12 +197,12 @@ head() {
     *Source*: [https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary)
     
 
-### Advise
+## Advise
 
 - Use [https://cards-dev.twitter.com/validator](https://cards-dev.twitter.com/validator) to test what the blog posts would like when shared on social media WhatsApp, Twitter, Slack etc really.
 - Build using **`nuxt generate`** then **`nuxt start`** on your local machine. Platforms like Vercel, and Cloudflare pages can handle production deployments for you with ease with fast built time.
 
-### Future
+## Future
 
 - I intend to work on generating routes for more than 100 items. Right now routes can be generated for 100 posts on page 1 i.e {page: 1, perPage: 100}.
     
